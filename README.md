@@ -10,6 +10,6 @@ Data and source code for paper. For an updated model, see [this repository](http
 
 Dependencies:
 
-* sklearn (pip install scikit-learn)
-* nltk (pip install nltk)
-* pycrfsuite (pip install python-crfsuite)
+* `sklearn`
+* `nltk`
+* `pycrfsuite`
