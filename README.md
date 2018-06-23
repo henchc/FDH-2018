@@ -13,3 +13,5 @@ Dependencies:
 * `sklearn`
 * `nltk`
 * `pycrfsuite`
+
+***Note***: (Annotated) data are under copyright as they come from edited editions of the works, cited in the paper. If you're interested in reproducing the paper please contact the authors directly.
